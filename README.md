@@ -79,7 +79,7 @@ This repository contains a synthetic dataset representing traffic flow along a m
 
 ## Full Dataset
 
-Download the full CSV: [traffic_2024.csv]
+Download the full CSV: (https://raw.githubusercontent.com/YourUsername/YourRepo/main/traffic_2024.csv)
 ## Dataset Objectives
 - Daily traffic counts by vehicle type
 - Total traffic per day (Total_Traffic)
